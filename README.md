@@ -9,12 +9,14 @@
 
 
 
-<h4 align="center"> 
+<p align="center"> 
+	<b>
 	🚧  Em construção...  🚧
-</h4>
+	</b>
+</p>
 
 
-### 🚀 Como rodar
+## 🚀 Como rodar
 
 - Clone o repositório
 - Instale as dependências com `yarn`
@@ -23,7 +25,7 @@
 Agora você pode acessar `localhost:3000` do seu navegador.
 
 
-### 🛠 Tecnologias
+## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -32,13 +34,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 
 
-### 📄 Licença
+## 📄 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 
-### 🥊 Autor
----
+## 🥊 Autor
+
 
 <a href="https://github.com/victorjaqueto">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86496944?v=4" width="100px;" alt=""/>
